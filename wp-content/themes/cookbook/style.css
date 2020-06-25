@@ -1259,9 +1259,11 @@ footer h3 {
 
 
 
-.spec {
+.spec img {
 	position: relative;
+	filter: brightness(60%) opacity(75%);
 }
+
 
 .author-white {
 	z-index: 99;
@@ -1399,7 +1401,8 @@ footer h3 {
 }
 
 .bigger-img{
-	transform: scale(1.4);
+	width: 400px!important;
+	max-width: 500px!important;
 	padding:30px;
 	text-align: center!important;
 }
