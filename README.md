@@ -13,6 +13,6 @@ Napomena: za **Windows** platformu
 7. Databaza 'cookbook' ce biti kreirana i trebalo bi je selektovati i kliknuti na '**Import**' tab
 8. Izabrati '**cookbook.sql**' fajl koji se nalazi u folderu '**db**' u folderu '_cookbook_' koji je kreiran u '_htdocs_'
 9. Pokrenuti scriptu priskom na dugme '**Go**'
-10. U pretrazivacu uneti adresu "_https://localhost/cookbook/wp-admin_"
+10. U pretrazivacu uneti adresu "_http://localhost/cookbook/wp-admin_"
 11. Ulogovati se sa **username** "Dexy", **password** "9dd7630f"
 12. Analizirati projekat i obavezno pozvati kandidata na intervju!!! :)
