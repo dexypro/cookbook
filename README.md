@@ -1,4 +1,4 @@
-"# cookbook" 
+COOKBOOK - Custom WordPress Theme
 
 Koraci kako pokrenuti Cookbook Temu za WordPress
 
